@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=远程桌面
+Icon=/usr/share/pixmaps/iron.png
+Exec=client.sh
+
+
+
